@@ -2,4 +2,4 @@
 def main(msg):
     print(msg)
 
-main("Hello Samet Cem")
+main("Hello Cem")
